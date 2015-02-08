@@ -1,8 +1,11 @@
 # Zillow #HackHousing Hackathon: Seattle Housing Finder
 
 Goals:
+
 •	Establish a direct connect between Landlords and future Section 8 tenants.
+
 •	Create a user-friendly website that gives the Section 8 voucher holders the proper information needed to get them placed in a house, access to an emergency shelter, or an extension on their voucher deadline.
+
 •	Display relative and updated information from provided datasets as well as directly from the landlords.
 
 This application was developed February 6-8, 2015 for the [Zillow #HackHousing Hackathon](http://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111).
