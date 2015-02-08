@@ -7,7 +7,7 @@ Goals:
 
 This application was developed February 6-8, 2015 for the [Zillow #HackHousing Hackathon](http://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111).
 
-[Isn't our app beautiful?!](Picture1.png)
+![Isn't our app beautiful?!](Picture1.png)
 
 Our app is live at http://section8connect.herokuapp.com/.
 
