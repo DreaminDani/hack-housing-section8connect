@@ -23,6 +23,10 @@ window.onload = function() {
 };
 
 function refresh() {
+	for (var i = 0; i < markerList.length; i++) {
+		markerList[i].setMap(null);
+	}
+	markerList = [];
 	// ----get input fields----
 	//var numBeds = document.getElementById("numBeds").value;
 	var numBaths = 0;//document.getElementById("numBaths").value;
