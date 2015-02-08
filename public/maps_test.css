@@ -40,6 +40,7 @@ body {
 fieldset {
   margin: 16px;
   border: 1px solid #0099cc;
+  border-radius: 8px;
 }
 
 .limInfo {
