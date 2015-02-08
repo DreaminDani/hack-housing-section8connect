@@ -2,7 +2,7 @@
 
 Goals:
 
-•	Establish a direct connect between Landlords and future Section 8 tenants.
+•	Establish a direct connect between landlords and future Section 8 tenants.
 
 •	Create a user-friendly website that gives the Section 8 voucher holders the proper information needed to get them placed in a house, access to an emergency shelter, or an extension on their voucher deadline.
 
