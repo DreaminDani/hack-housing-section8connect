@@ -32,27 +32,16 @@ Our team is comprised of:
 ## Technologies, APIs, and Datasets Utilized
 
 We made use of:
-
-- Hand harvested unicorn tears. Unicorns are very happy creatures, its hard to make them cry.
-- [mod_bf](http://modbf.sourceforge.net/)
-- The [Top 1,000 Songs To Hear Before You Die](https://opendata.socrata.com/Fun/Top-1-000-Songs-To-Hear-Before-You-Die/ed74-c6ni) dataset and [API](http://dev.socrata.com/foundry/#/opendata.socrata.com/ed74-c6ni)
+- Google Maps JavaScript API
+- Ruby on Rails
+- Spencer's simple email API
 
 ## Contributing
 
 In order to build and run our app:
 
-1. Harvest yourself some unicorn tears. They're expensive to purchase on your own.
-2. [Deploy your the code](https://github.com/masylum/Brainfuck-on-Rails) to [Heroku](http://heroku.com)
-3. Profit
+1. Pull from this repository
+2. [Deploy the code](https://github.com/d3sandoval/hack-housing-section8connect) to [Heroku](http://heroku.com)
+3. Run and test
 
 Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
-
-# hack-housing-section8connect
-Zeus Cluster's Entry for Zwillow #HackHousing Hackathon
-Copyright (c) 2015 Mitchell Barnette, Imran Haroon, Spencer Nusbaum, John Paul Patrizio, Natat Premvuti, Daniel Sandoval
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
