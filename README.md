@@ -6,27 +6,18 @@ Goals:
 •	Create a user-friendly website that gives the Section 8 voucher holders the proper information needed to get them placed in a house, access to an emergency shelter, or an extension on their voucher deadline.
 •	Display relative and updated information from provided datasets as well as directly from the landlords.
 
-This application was developed on February 5th, 2015 for the [Evergreen Awesome Hackthon](http://example.com/this-goes-nowhere).
 This application was developed February 6-8, 2015 for the [Zillow #HackHousing Hackathon](http://www.eventbrite.com/e/hack-housing-empowering-smarter-decisions-a-weekend-hackathon-registration-15310832111).
 
-![Isn't our app beautiful?!](screenshot.jpg)
 ![Isn't our app beautiful?!](Picture1.png)
 
-Our app is live at http://example.com/awesome-app-that-doesnt-exist. You can log in as the demo user "unicorns" with password "sartfarkles". You can also check out [this demo screencast](https://www.youtube.com/watch?v=dQw4w9WgXcQ) of our application on YouTube.
 Our app is live at http://section8connect.herokuapp.com/.
 
 ## Challenge and Approach
 
-Our submission is for [Challenge #3: Build an app that provides an example of an Awesome Hackathon submission](http://example.com/this-also-goes-nowhere).
 Our responds to [Challenge #2: Matching eligible tenants with accepting landlords is a perennial challenge – neither, it seems, has a central place to start looking for one another](http://zillow.mediaroom.com/download/Housing+Hackathon+-+Background.pdf%20).
 
 Our approach for satisfying this challenge was to:
 
-- Develop an example Git repository
-- Share it on Github
-- Collect feedback from the community
-
-Once we did that, we knew we were guaranteed to win!
 - Research and understand the current challenges facing voucher holders and prospective landlords
 - Develop and iterate strategies in correspondence with HUD and SHA resources in order to provide incentive for landlords to reach out to those in need of housing
 - Provide strategies for implementing this new technology - educating voucher holders and landlords of its existence and ability to quickly fill vacancies
@@ -35,16 +26,18 @@ Once we did that, we knew we were guaranteed to win!
 
 Our team is comprised of:
 
-- [@chrismetcalf](http://github.com/chrismetcalf) - README.md author and all around awesome guy
-- [@torvalds](http://github.com/torvalds) - Wrangler of penguins
-- [@matz](http://github.com/matz) - Miner of Rubies
-- [@gvanrossum](http://github.com/gvanrossum) - Python charmer
 [Pico Premvuti](http://students.washington.edu/natatp) – Computer Science, University of Washington 
+
 [Daniel Sandoval](http://www.desandoval.net) – Human Centered Design and Engineering (UW) 
-[Imran Haroon]() – Former HUD Employee 
-[John-Paul Patrizio]() – Post Amazon Employee 
+
+Imran Haroon – Former HUD Employee 
+
+John-Paul Patrizio – Post Amazon Employee 
+
 [Spencer Nusbaum](http://www.spencernusbaum.me) – Computer Science, Washington State University
-Mitchell Barnette – Digital Technology and Culture (WSU)  
+
+Mitchell Barnette – Digital Technology and Culture (WSU)
+
 
 ## Technologies, APIs, and Datasets Utilized
 
