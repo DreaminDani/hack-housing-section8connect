@@ -50,7 +50,6 @@ We made use of:
 
 In order to build and run our app:
 
-<<<<<<< HEAD
 1. Pull from this repository
 2. [Deploy the code](https://github.com/d3sandoval/hack-housing-section8connect) to [Heroku](http://heroku.com)
 3. Run and test
@@ -62,4 +61,3 @@ Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be 
 3. Profit
 
 Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
->>>>>>> origin/master
