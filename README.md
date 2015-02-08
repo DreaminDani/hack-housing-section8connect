@@ -45,6 +45,7 @@ We made use of:
 - Google Maps JavaScript API
 - Ruby on Rails
 - Spencer's simple email API
+- [Public Housing Buildings Dataset](http://zillowhack.hud.opendata.arcgis.com/datasets/2a462f6b548e4ab8bfd9b2523a3db4e2_0?geometry=-123.419%2C47.467%2C-121.245%2C47.745&filterByExtent=true&uiTab=table)
 
 ## Contributing
 
