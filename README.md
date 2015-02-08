@@ -1,6 +1,5 @@
 # Zillow #HackHousing Hackathon: Seattle Housing Finder
 
-The purpose of this app is to provide an example of how to best format an app submission on [Github](http://github.com) for a hackathon. If you'd like to suggest changes or improvements to this example, feel free to send me a pull request.
 Goals:
 •	Establish a direct connect between Landlords and future Section 8 tenants.
 •	Create a user-friendly website that gives the Section 8 voucher holders the proper information needed to get them placed in a house, access to an emergency shelter, or an extension on their voucher deadline.
@@ -51,7 +50,16 @@ We made use of:
 
 In order to build and run our app:
 
+<<<<<<< HEAD
 1. Pull from this repository
 2. [Deploy the code](https://github.com/d3sandoval/hack-housing-section8connect) to [Heroku](http://heroku.com)
 3. Run and test
 
+Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
+=======
+1. Harvest yourself some unicorn tears. They're expensive to purchase on your own.
+2. [Deploy your the code](https://github.com/masylum/Brainfuck-on-Rails) to [Heroku](http://heroku.com)
+3. Profit
+
+Our code is licensed under the [MIT License](LICENSE.md). Pull requests will be accepted to this repo, pending review and approval.
+>>>>>>> origin/master
