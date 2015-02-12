@@ -33,7 +33,7 @@ Our team is comprised of:
 
 [Pico Premvuti](http://students.washington.edu/natatp) – Computer Science, University of Washington 
 
-[Daniel Sandoval](http://www.desandoval.net) – Human Centered Design and Engineering (UW) 
+[Daniel (Dani) Sandoval](http://www.desandoval.net) – Human Centered Design and Engineering (UW) 
 
 Imran Haroon – Former HUD Employee 
 
@@ -43,6 +43,9 @@ John-Paul Patrizio – Post Amazon Employee
 
 Mitchell Barnette – Digital Technology and Culture (WSU)
 
+###Watch us work in the #HackHousing video (See Spencer at 00:05-00:06, Imran from 00:34-00:40, and Pico, Matthew, and Dani from 00:46-00:51):
+
+[![See us in action!](http://img.youtube.com/vi/9QXi2sAnyJk/0.jpg)](http://www.youtube.com/watch?v=9QXi2sAnyJk)
 
 ## Technologies, APIs, and Datasets Utilized
 
